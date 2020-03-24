@@ -13,6 +13,7 @@ git clone https://github.com/mingdev123/vue-admin.git
 npm install
 ```
 启动服务: (http://localhost:3001)
+帐号和密码：admin
 
 ```
 npm run dev
